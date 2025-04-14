@@ -1,4 +1,4 @@
-tr5<!-- Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Abu+Naiem;Web+Developer+%7C+WordPress+Specialist;Crafting+modern+%26+responsive+websites" alt="Typing SVG" />
 </p>
@@ -45,8 +45,8 @@ tr5<!-- Banner -->
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdabunaiem&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabunaiem&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abunaiem&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abunaiem&layout=compact&theme=radical" height="150" />
 </div>
 
 <p align="center">
