@@ -1,4 +1,4 @@
-<!-- Banner -->
+tr5<!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Abu+Naiem;Web+Developer+%7C+WordPress+Specialist;Crafting+modern+%26+responsive+websites" alt="Typing SVG" />
 </p>
@@ -19,11 +19,7 @@
 - 🔭 Currently working at **Shikhbe Shobai**  
 - 🧑‍💻 Focused on **WordPress, PHP, and Responsive Frontend Design**  
 - 🌱 Learning **JavaScript animations, headless CMS, and modern workflows**  
-- 👨‍🎓 Education:  
-  ▸ Harinal High School (GPA: 4.06)  
-  ▸ Borak Polytechnic Institute (Diploma, CGPA: 3.63)  
-- 🧰 Building my own **Creative Web Agency**  
-- 📫 Reach me: **mdabunaiem.dev@gmail.com**  
+- 📫 Reach me: **naiem7491@gmail.com**  
 - ⚡ Fun fact: *I love coding late at night with coffee and good music 🎧*
 
 ---
