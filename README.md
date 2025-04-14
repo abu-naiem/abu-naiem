@@ -16,7 +16,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working at **Shikhbe Shobai**  
+- 🔭 Currently working at **Code Bengal**  
 - 🧑‍💻 Focused on **WordPress, PHP, and Responsive Frontend Design**  
 - 🌱 Learning **JavaScript animations, headless CMS, and modern workflows**  
 - 📫 Reach me: **naiem7491@gmail.com**  
