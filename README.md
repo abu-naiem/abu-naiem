@@ -1,73 +1,80 @@
-[![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/mdabunaiem)
-
-<h1 align="center">Hi 👋, I'm Md. Abu Naiem</h1>
-<h3 align="center">Web Developer | WordPress Specialist | HTML, CSS, JavaScript, PHP, MySQL</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mdabunaiem&label=Profile%20views&color=0e75b6&style=flat" alt="mdabunaiem" />
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Abu+Naiem;Web+Developer+%7C+WordPress+Specialist;Crafting+modern+%26+responsive+websites" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working as a Web Developer at **Shikhbe Shobai**  
-- 🌱 I’m currently exploring: **Advanced WordPress development & modern web animations**  
-- 👯 I’m looking to collaborate on: **Creative frontend and full-stack WordPress projects**  
-- 💬 Ask me about: **WordPress, Theme/Plugin customization, HTML, CSS, JS, PHP**  
-- 🎯 Career Goal: **To build an agency offering top-notch web design & UX/UI services**  
-- 📫 Reach me at: **mdabunaiem.dev@gmail.com**  
-- 🎓 Education:  
-   - 🏫 Harinal High School (GPA: 4.06)  
-   - 💻 Diploma in Computer Engineering from Borak Polytechnic Institute (CGPA: 3.63)  
-- ⚡ Fun fact: **I love turning ideas into beautiful, fast-loading websites.**
+<!-- Short bio -->
+<h3 align="center">💻 Passionate Web Developer | 🚀 Lifelong Learner | 🎯 Goal-Driven Creator</h3>
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/mdabunaiem" target="_blank">
-    <img src="https://img.shields.io/github/followers/mdabunaiem?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/naiem7491/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://www.facebook.com/md.abu.naiem99" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/muhammadabunaiem/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/mdabunaiem">
+    <img src="https://komarev.com/ghpvc/?username=mdabunaiem&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Core Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  
-  <!-- Frameworks & CMS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
-  
-  <!-- Design Tools -->
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
-  
-  <!-- Editor & Platforms -->
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40"/>
+### 🧠 About Me
+
+- 🔭 Currently working at **Shikhbe Shobai**  
+- 🧑‍💻 Focused on **WordPress, PHP, and Responsive Frontend Design**  
+- 🌱 Learning **JavaScript animations, headless CMS, and modern workflows**  
+- 👨‍🎓 Education:  
+  ▸ Harinal High School (GPA: 4.06)  
+  ▸ Borak Polytechnic Institute (Diploma, CGPA: 3.63)  
+- 🧰 Building my own **Creative Web Agency**  
+- 📫 Reach me: **mdabunaiem.dev@gmail.com**  
+- ⚡ Fun fact: *I love coding late at night with coffee and good music 🎧*
+
+---
+
+### 🧩 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,bootstrap,tailwind,figma,photoshop,vscode,github" />
 </p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naiem7491/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://facebook.com/md.abu.naiem99" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://instagram.com/muhammadabunaiem/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdabunaiem&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabunaiem&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdabunaiem&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabunaiem&layout=compact&theme=radical" height="150" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabunaiem&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabunaiem&theme=radical" />
 </p>
+
+---
+
+### 🧭 Current Goals
+
+- 🌟 Master advanced WordPress theme & plugin development  
+- ✨ Create an interactive web components library  
+- 🧪 Explore headless CMS like Strapi or Sanity  
+- 🎨 Improve UI/UX design skills with Figma & Framer
+
+---
+
+### 🛠️ Workflow & Tools
+
+- ⚙️ VS Code, GitHub, XAMPP, Figma, Photoshop  
+- 🌐 Responsive-first, pixel-perfect design  
+- 🚀 Always learning and building in public  
+
+---
+
+> *“Stay curious. Code often. Dream big.”*  
+> — Naiem 🚀
